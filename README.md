@@ -7,20 +7,12 @@ In this project i added changes to index.htmk in order to make it accessible by 
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-## Deployed Link
-
-* [See Live Site](#)
-
-
 ## Authors
 
-* **YOUR NAME** 
+* **Gabriel Pineda** 
 
-- [Link to Portfolio Site](#)
-- [Link to Github](https://github.com/)
-- [Link to LinkedIn](https://www.linkedin.com/)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+- [Link to Github](https://github.com/GabrielPineda808)
+- [Link to LinkedIn](https://www.linkedin.com/in/gabriel-pineda-a94535195/)
 
 ## License
 
