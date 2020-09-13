@@ -1,6 +1,6 @@
 # Refactoring Code
 
-In this project i added changes to index.htmk in order to make it accessible toa
+In this project i added changes to index.htmk in order to make it accessible by adding semantic htmk and proper attributes
 
 ## Getting Started
 
